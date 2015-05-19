@@ -1,0 +1,6 @@
+D:\Brijesh\MailWebService\MailWebService\bin\MailWebService.dll.config
+D:\Brijesh\MailWebService\MailWebService\bin\MailWebService.dll
+D:\Brijesh\MailWebService\MailWebService\bin\MailWebService.pdb
+D:\Brijesh\MailWebService\MailWebService\obj\Debug\MailWebService.csprojResolveAssemblyReference.cache
+D:\Brijesh\MailWebService\MailWebService\obj\Debug\MailWebService.dll
+D:\Brijesh\MailWebService\MailWebService\obj\Debug\MailWebService.pdb
